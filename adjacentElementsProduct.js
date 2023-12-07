@@ -18,4 +18,4 @@ function adjacentElementsProduct(inputArray){
     return largestProduct;
 }
 
-console.log(adjacentElementsProduct(products))
+adjacentElementsProduct(products);
