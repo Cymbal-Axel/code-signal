@@ -6,6 +6,7 @@
 
 
 var products = [3, 6, -2, -5, 7, 3];
+
 function adjacentElementsProduct(inputArray){
     let largestProduct = inputArray[0] * inputArray[1];
 
